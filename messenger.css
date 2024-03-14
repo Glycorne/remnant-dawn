@@ -62,12 +62,12 @@
     color: var(--accentClr);
     font-size: 18px;
     background-color: var(--neutralDark);
-    border-radius: 10px;
+    border-radius: 5px;
     position: fixed;
     width: 45px;
     height: 45px;
-    left: 10px;
-    top: 15px;
+    right: 10px;
+    top: 65px;
     cursor: pointer;
     z-index:999;
     transition-property: right;
